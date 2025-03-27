@@ -16,9 +16,9 @@ I'm currently studying cs<br>working on mobile application
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arshiadp/arshiadp/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arshiadp/arshiadp/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arshiadp/arshiadp/output/github-snake.svg" />
 </picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
