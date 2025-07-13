@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently studying cs<br>working on mobile application
+I'm currently studying cs 
+a software engineer specializing in building native mobile, web, and desktop applications using the Flutter framework .A good Flutter developer possesses strong problem-solving skills, understands responsive design principles, and is proficient in state management and API integration .Implement 
+clean, scalable UI and maintain a consistent user experience across platforms .
 
 
 # 💻 Tech Stack:
